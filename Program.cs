@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace csharp_blazor_bug_tracking
 {
     class Program
